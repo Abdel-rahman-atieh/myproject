@@ -1,9 +1,9 @@
 h1 {
-    color: rgb(25, 0, 255);
+    color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
 }
 body{
-    background-color: aquamarine;
+    background-color: rgb(217, 255, 0);
 }
